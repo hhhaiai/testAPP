@@ -1,0 +1,7 @@
+https://cdn.jsdelivr.net/gh/<用户名>/<仓库>/<目录>
+https://cdn.jsdelivr.net/gh/hhhaiai/testAPP/vy.txt
+
+
+https://cdn.jsdelivr.net/gh/JabinGP/mdout/main.go
+
+
