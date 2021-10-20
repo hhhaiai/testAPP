@@ -1,5 +1,5 @@
-测试事件:2021-10-20 03:40:35
+测试事件:2021-10-20 03:42:32
 提交用户:null
 电脑:null
-uname:Linux fv-az121-306 5.8.0-1042-azure #45~20.04.1-Ubuntu SMP Wed Sep 15 14:24:15 UTC 2021 x86_64 x86_64 x86_64 GNU/Linux
+uname:Linux fv-az83-742 5.8.0-1042-azure #45~20.04.1-Ubuntu SMP Wed Sep 15 14:24:15 UTC 2021 x86_64 x86_64 x86_64 GNU/Linux
 CPU核数:2
