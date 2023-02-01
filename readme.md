@@ -10,7 +10,10 @@
 * **https://cdn.jsdelivr.net/gh/<用户名>/<仓库名>@[版本号]/<文件及路径>**
 
 
-* `样例`: https://cdn.jsdelivr.net/gh/hhhaiai/testAPP/vy.txt
+* `样例`
+  - https://cdn.jsdelivr.net/gh/hhhaiai/testAPP/vy.txt
+  - https://cdn.jsdelivr.net/gh/freefq/free/v2
+  - https://cdn.jsdelivr.net/gh/freefq/free@master/v2
 
 
 ### 约束条件
