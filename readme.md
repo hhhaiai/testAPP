@@ -16,6 +16,14 @@
   - https://cdn.jsdelivr.net/gh/freefq/free@master/v2
   - https://cdn.jsdelivr.net/gh/mianfeifq/share/data2023036.txt
 
+* [other](https://github.com/Leon406/SubCrawler)
+  - https://github.com/JACKUSR2089/v2ray-subscribed
+  - https://github.com/clashconfig/online
+  - https://github.com/colatiger/v2ray-nodes
+  - ⭐https://github.com/freefq/free
+  - https://github.com/skywolf627/VmessActions
+  - pojiezhiyuanjun/freev2
+  - https://github.com/adiwzx/freenode
 
 ### 约束条件
 
