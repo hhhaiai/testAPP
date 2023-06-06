@@ -12,6 +12,7 @@
 
 * `样例`
   - https://cdn.jsdelivr.net/gh/hhhaiai/testAPP/vy.txt
+  - https://cdn.jsdelivr.net/gh/hhhaiai/testAPP/v
   - https://cdn.jsdelivr.net/gh/freefq/free/v2
   - https://cdn.jsdelivr.net/gh/freefq/free@master/v2
   - https://cdn.jsdelivr.net/gh/mianfeifq/share/data2023036.txt
