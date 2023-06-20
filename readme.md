@@ -15,9 +15,10 @@
   - https://cdn.jsdelivr.net/gh/hhhaiai/testAPP/v
   - https://cdn.jsdelivr.net/gh/freefq/free/v2
   - https://cdn.jsdelivr.net/gh/freefq/free@master/v2
-  - https://cdn.jsdelivr.net/gh/mianfeifq/share/data2023036.txt
+  - https://cdn.jsdelivr.net/gh/mianfeifq/share/data2023061.txt
 
 * [other](https://github.com/Leon406/SubCrawler)
+  - https://github.com/mianfeifq/share
   - https://github.com/JACKUSR2089/v2ray-subscribed
   - https://github.com/clashconfig/online
   - https://github.com/colatiger/v2ray-nodes
