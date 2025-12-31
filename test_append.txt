@@ -1,4 +1,1 @@
-Hello from JNet!
-This is a clean test file.
-
-Appended line.
+content content
