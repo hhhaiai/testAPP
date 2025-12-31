@@ -1,2 +1,2 @@
-null
-Appended line.
+Hello from JNet!
+This is a clean test file.
